@@ -1,0 +1,23 @@
+{
+  "name": "buchindex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brooke-leichtle/buchindex.git"
+  },
+  "bin": {
+    "buchindex": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "Brooke Leichtle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brooke-leichtle/buchindex/issues"
+  },
+  "homepage": "https://github.com/brooke-leichtle/buchindex#readme",
+  "dependencies": {
+    "epub2": "^2.0.9"
+  }
+}
